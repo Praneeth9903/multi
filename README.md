@@ -1,1 +1,2 @@
-# multi
+# synchronousBallMovement
+Ball moving synchronously
